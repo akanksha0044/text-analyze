@@ -2,7 +2,7 @@
 import './App.css';
 import Navbar from './Component/Navbar';
 import TextForm from './Component/TextForm';
-import { useState } from 'react/cjs/react.development';
+import { useState } from 'react';
 
 
 
