@@ -1,6 +1,6 @@
 {
-  "homepage": "https://github.com/akanksha0044/Text-Analyzer.git",
   "name": "text-analyzer",
+  "homepage": "http://akanksha0044.github.io/Text-Analyzer",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
